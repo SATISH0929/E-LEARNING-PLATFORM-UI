@@ -1,0 +1,43 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f3f4f6;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  padding: 40px;
+}
+
+h1 {
+  font-size: 2.5rem;
+  color: #1f2937;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  background-color: #fff;
+  border-radius: 12px;
+  padding: 20px;
+  margin-bottom: 16px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.05);
+}
+
+h2 {
+  color: #111827;
+  font-size: 1.5rem;
+}
+
+p {
+  color: #6b7280;
+  font-size: 1rem;
+}
+
+.error {
+  color: #dc2626;
+  font-size: 1.25rem;
+}
